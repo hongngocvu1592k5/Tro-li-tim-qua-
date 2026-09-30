@@ -1,0 +1,6 @@
+{
+  "name": "Trợ Lý Tìm Quà - Gợi Ý Quà Chuẩn Gu TikTok & Shopee",
+  "description": "Nền tảng trợ lý thông minh gợi ý quà tặng chuẩn gu cho Người yêu, Đồng nghiệp & Bố Mẹ với liên kết uy tín trên Shopee & TikTok Shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
